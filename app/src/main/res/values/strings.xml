@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TUPDO</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="no_to_dos">Anda belum memiliki daftar tugas, Yuk Buat :)</string>
+    <string name="title">Judul</string>
+    <string name="remind_me">Ingatkan saya</string>
+    <string name="choose_date">Hari</string>
+    <string name="choose_time">Waktu</string>
+    <string name="remind_date_and_time">Reminder set for %1$s, %2$s %3$s</string>
+    <string name="about">Tentang</string>
+    <string name="app_version">Version: 1.0</string>
+    <string name="contact_me">Anda dapat menghubungi kami melalui</string>
+    <string name="made_by">Dirilis oleh TUPDO</string>
+    <string name="done_label">Selesai</string>
+    <string name="date_reminder_default">Hari ini</string>
+    <string name="date_error_check_again">Tanggal yang Anda masukkan sebelumnya.</string>
+    <string name="night_mode">Mode Gelap</string>
+    <string name="night_mode_on_summary">Mode Gelap Aktif</string>
+    <string name="night_mode_off_summary">Mode Gelap Tidak Aktif</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="snooze_options">
+        <item>10 Minutes</item>
+        <item>30 Minutes</item>
+        <item>1 Hour</item>
+    </string-array>
+
+    <string name="snooze">Tunda</string>
+    <string name="remove">Hapus</string>
+    <string name="todo_error">Sialkan masukkan daftar tugas</string>
+</resources>
