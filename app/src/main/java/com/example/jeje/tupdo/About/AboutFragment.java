@@ -22,7 +22,6 @@ public class AboutFragment extends AppDefaultFragment {
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
     }
 
     @Override
